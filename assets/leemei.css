@@ -1,0 +1,126 @@
+body {
+	background-image: url("/assets/bg.png");
+	background-repeat: repeat;
+}
+
+header {
+	margin-top: 20px;
+}
+
+section {
+	margin-top: 20px;
+}
+
+.hero-unit {
+	text-align: justify;
+}
+
+#home-btns a {
+	font-size: 20pt;
+	margin-bottom: 20px;
+	padding: 20px 0;
+}
+
+footer {
+	margin-top: 100px;
+	text-align: center;
+}
+
+#copyright {
+	margin-top: 40px;
+}
+
+h1 {
+	margin-bottom: 50px;
+}
+
+#contact address {
+	margin: 50px 0;
+	font-size: 12pt;
+	line-height: 30px;
+}
+
+#aboutus {
+	font-size: 12pt;
+	text-align: justify;
+}
+	#aboutus article span {
+		float: left;
+		margin: 10px 30px 20px 10px;
+	}
+	#aboutus h3 {
+		margin-top: 50px;
+	}
+	#aboutus table {
+		font-size: 13pt;
+	}
+		#aboutus table tr td {
+			padding: 10px;
+		}
+		#aboutus table tr td {
+			padding: 10px;
+		}
+
+#aboutus video {
+	margin: 30px auto 50px;
+	display: block;
+}
+
+#facilities {
+	text-align: center;
+}
+	#facilities li {
+		margin: 10px 20px;
+	}
+
+#modal-susanli .modal-body {
+	font-size: 11pt;
+	padding: 30px;
+	max-height: 600px;
+}
+
+#products-tab {
+	font-size: 18pt;
+}
+	#products-tab li a {
+		padding: 20px;
+	}
+
+#coverall {
+	text-align: justify;
+}
+
+#coverall1 {
+	float: left;
+	margin: 0 40px 20px 0;
+}
+
+#coverall2 {
+	float: right;
+	margin: 0 0 20px 40px;
+}
+
+#disposable-index {
+	text-align: center;
+}
+
+#disposable-carousel h4 {
+	margin-bottom: 40px;
+}
+
+#disposable-carousel img {
+	margin: 10px 40px 10px 0;
+}
+
+#disposable-carousel .tb-spec {
+	margin: 40px 0 60px;
+}
+
+#disposable-carousel .tb-spec tbody td {
+	vertical-align: middle;
+}
+
+#products-more li {
+	width: 300px;
+	text-align: center;
+}
