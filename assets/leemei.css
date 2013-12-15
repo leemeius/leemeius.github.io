@@ -1,6 +1,7 @@
 body {
 	background-image: url("/assets/bg.png");
 	background-repeat: repeat;
+	color: #307030;
 }
 
 header {
